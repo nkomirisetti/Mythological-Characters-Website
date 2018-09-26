@@ -1,9 +1,14 @@
+body {
+    background-color:E08E79;
+}
+
 .grid-container{
     display: grid;
     background-color: #ECE5CE;
     grid-template-columns: auto auto auto;
     padding: 15px;
 }
+
 .grid-item{
     background-color: #C5E0DC;
     align-self: center;
@@ -11,8 +16,4 @@
     text-align: center;
     font-size: 30px;
     border-spacing: 3px solid #F1D4AF;
-}
-
-body {
-    background-color:E08E79;
 }
