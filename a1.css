@@ -3,8 +3,10 @@ body {
 }
 
 .h1 {
-    font-family: 'Arial', sans-serif;
-    font-size: 48px;
+    font-family: 'Notable', sans-serif;
+    font-size: 66 px;
+    text-align: center;
+    color: #F1D4AF;
 }
 
 .grid-container{
