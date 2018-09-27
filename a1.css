@@ -2,13 +2,13 @@ div > body {
     background-color: #061639;
 }
 .h1 {
-    font-size: 66 px;
+    font-size: 66px;
     text-align: center;
     color: #246D5F;
     font-family: 'Notable', sans-serif;
 }
 .h2{
-    font-size: 44 px;
+    font-size: 44px;
     text-align: center;
     color: #1C4A00;
     font-family: 'Notable', sans-serif;
@@ -39,7 +39,7 @@ div > body {
     font-size: 30px;
     border-spacing: 3px solid #152B55;
     border-style: solid;
-    border-width: 0px 3px 0 px 3 px;
+    border-width: 0px 3px 0px 3px;
     color: #6DA398;   
 }
 .image-float-left{
