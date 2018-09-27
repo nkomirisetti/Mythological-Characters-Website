@@ -21,7 +21,7 @@ div > body {
 }
 .body-text{
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 1.6;
     padding-bottom: 16px;
 }
@@ -72,6 +72,4 @@ a:active {
 #gif:hover{
     -webkit-transform: scaleY(-1);
     transform: scaleY(-1);
-    float: left;
-    padding: 14px;
 }
