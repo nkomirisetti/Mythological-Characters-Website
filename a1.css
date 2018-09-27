@@ -45,7 +45,12 @@ body {
 }
 
 .image-float-left{
-    float:left;
+    float: left;
+    padding: 14px;
+}
+.image-float-right{
+    float: right;
+    padding: 14px;
 }
 
 
