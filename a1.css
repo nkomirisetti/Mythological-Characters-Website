@@ -1,4 +1,4 @@
-body {
+div > body {
     background-color: #061639;
 }
 .h1 {
@@ -68,4 +68,10 @@ a:active {
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
+}
+#gif:hover{
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+    float: left;
+    padding: 14px;
 }
