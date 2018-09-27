@@ -1,7 +1,6 @@
 body {
     background-color: #061639;
 }
-
 .h1 {
     font-size: 66 px;
     text-align: center;
@@ -20,20 +19,17 @@ body {
     margin: auto;
     background-color:#6DA398;
 }
-
 .body-text{
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     line-height: 1.6;
 }
-
 .grid-container{
     display: grid;
     background-color: #061639;
     grid-template-columns: auto auto auto;
     padding: 15px;
 }
-
 .grid-item{
     background-color: #152B55;
     align-self: center;
@@ -43,7 +39,6 @@ body {
     border-spacing: 3px solid #152B55;
     color: #6DA398;   
 }
-
 .image-float-left{
     float: left;
     padding: 14px;
@@ -52,29 +47,22 @@ body {
     float: right;
     padding: 14px;
 }
-
 a:link {
     color: #246D5F; 
     background-color: transparent; 
     text-decoration: none;
 }
-
 a:visited {
     color: pink;
     background-color: transparent;
     text-decoration: none;
 }
-
 a:hover {
-    color: red;
     background-color: transparent;
     text-decoration: underline;
 }
-
 a:active {
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
 }
-
-
