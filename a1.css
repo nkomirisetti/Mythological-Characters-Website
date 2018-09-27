@@ -23,6 +23,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     line-height: 1.6;
+    padding-bottom: 16px;
 }
 .grid-container{
     display: grid;
